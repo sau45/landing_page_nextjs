@@ -1,0 +1,59 @@
+/* CarouselComponent.module.css */
+.main_container {
+    background-color: rgb(231 223 223 / 99%);
+    width: 100%;
+    padding: 3rem 0rem;
+
+}
+
+.carouselContainer {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #F3F4F7;
+}
+
+.slideContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.textContainer {
+    padding: 20px;
+}
+
+.imageContainer {
+    margin-top: 20px;
+}
+
+.img_and_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.img_and_text img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.crousel_text {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 0.5rem;
+}
+
+.crousel_text :nth-child(2) {
+    font-size: 10px;
+    font-weight: 700;
+    color: gray;
+}
+
+.crousel_text p {
+    margin: 0;
+}

@@ -1,0 +1,80 @@
+[
+    {
+        "instructor": {
+            "name": "NITYANAND CHARAN DAS",
+            "social_media": {
+                "facebook": true,
+                "twitter": true,
+                "youtube": true,
+                "instagram": true
+            }
+        },
+        "course": {
+            "title": "Learn key life lessons from the Gita: Mind control and conflict resolution",
+            "fee": {
+                "amount": 5000,
+                "currency": "INR"
+            },
+            "inclusions": {
+                "on_demand_videos": 2,
+                "live_qa_sessions": true,
+                "whatsapp_community": true
+            },
+            "about": {
+                "html_content": "<p>Lorem ipsum text about managing relationships, communication, time management, and forgiveness.</p>"
+            },
+            "what_to_expect": {
+                "manage_relationship": "Learn to mange your relationships",
+                "better_communication": "Better communication",
+                "time_management": "Time management",
+                "Forgiveness": "Forgiveness"
+            },
+            "key_topics": {
+                "topic_text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellendus repudiandae voluptates id quasi aspernatur commodi ut quod nostrum, doloribus quae quam corrupti, atque molestias tempore adipisci, deleniti cum? Nisi.",
+                "written_audio": " guiding you in decoding the language of numbers so that you can easily receive their insights and messages",
+                "intutive_exercise": "walk you through the energies and values of numbers and number sequences so you can become your own authority.",
+                "handy_reference": " to numerical meanings, so you can uncover your soul's gifts, challenges, lessons, and purpose – and receive spiritual guidance along your path.",
+                "expert_technique": " for manifestation offer simple ways to use numbers to co-create with the universe."
+            }
+        },
+        "about_course":{
+            "html_content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellendus repudiandae voluptates id quasi aspernatur commodi ut quod nostrum, doloribus quae quam corrupti, atque molestias tempore adipisci, deleniti cum? Nisi."
+        },
+        "about_instructor": [
+            {
+                "instructor_img":"https://i.pinimg.com/564x/c1/18/ac/c118ac798b49e1c3c05eecf2869ed540.jpg"
+
+        },
+            {
+                "html_content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellendus repudiandae voluptates id quasi aspernatur commodi ut quod nostrum, doloribus quae quam corrupti, atque molestias tempore adipisci, deleniti cum? Nisi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellendus repudiandae voluptates id quasi aspernatur commodi ut quod nostrum, doloribus quae quam corrupti, atque molestias tempore adipisci, deleniti cum? Nisi.",
+                "facebook_url": "https://i.pinimg.com/564x/70/da/29/70da29e0cd3e98f2ba4bb67bd0bde726.jpg",
+                "twitter_url": "https://i.pinimg.com/564x/c8/d3/d4/c8d3d4d12a8ea35b58e35de9ec820a22.jpg"
+            },
+            {
+                "html_content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellendus repudiandae voluptates id quasi aspernatur commodi ut quod nostrum, doloribus quae quam corrupti, atque molestias tempore adipisci, deleniti cum? Nisi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellendus repudiandae voluptates id quasi aspernatur commodi ut quod nostrum, doloribus quae quam corrupti, atque molestias tempore adipisci, deleniti cum? Nisi.",
+                "youtube_url": "https://i.pinimg.com/564x/9c/d5/00/9cd500ccd6f558737c0d7f40773ec592.jpg",
+                "insta_url": "https://i.pinimg.com/564x/e0/e2/cb/e0e2cb0c6364a0e69277b1fa16babe84.jpg"
+            }
+        ],
+        "testimonial": [
+            {
+                "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
+                "reviewer_name": "Name of the reviewer",
+                "reviewer_designation": "Designation of the reviewer",
+                "crousel_img":"https://i.pinimg.com/736x/25/16/86/251686015e9a93e389976bab0b6bd141.jpg"
+            },
+            {
+                "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
+                "reviewer_name": "Name of the reviewer",
+                "reviewer_designation": "Designation of the reviewer",
+                "crousel_img":"https://i.pinimg.com/564x/95/1d/8f/951d8f17247355f01ff1a97f92185da7.jpg"
+            },
+            {
+                "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
+                "reviewer_name": "Name of the reviewer",
+                "reviewer_designation": "Designation of the reviewer",
+                "crousel_img":"https://i.pinimg.com/564x/88/cb/57/88cb5724501a4467c735455f0802a6da.jpg"
+            }
+        ]
+    }
+]
